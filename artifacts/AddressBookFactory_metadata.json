@@ -1,0 +1,81 @@
+{
+	"compiler": {
+		"version": "0.8.31+commit.fd3a2265"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "deploy",
+				"outputs": [
+					{
+						"internalType": "contract AddressBook",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Based learn/AddressBookFactory.sol": "AddressBookFactory"
+		},
+		"evmVersion": "osaka",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"@openzeppelin/contracts/access/Ownable.sol": {
+			"keccak256": "0xff6d0bb2e285473e5311d9d3caacb525ae3538a80758c10649a4d61029b017bb",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8ed324d3920bb545059d66ab97d43e43ee85fd3bd52e03e401f020afb0b120f6",
+				"dweb:/ipfs/QmfEckWLmZkDDcoWrkEvMWhms66xwTLff9DDhegYpvHo1a"
+			]
+		},
+		"@openzeppelin/contracts/utils/Context.sol": {
+			"keccak256": "0x493033a8d1b176a037b2cc6a04dad01a5c157722049bbecf632ca876224dd4b2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6a708e8a5bdb1011c2c381c9a5cfd8a9a956d7d0a9dc1bd8bcdaf52f76ef2f12",
+				"dweb:/ipfs/Qmax9WHBnVsZP46ZxEMNRQpLQnrdE4dK8LehML1Py8FowF"
+			]
+		},
+		"Based learn/AddressBook.sol": {
+			"keccak256": "0xb53a988bf93a8eb9347e3a3e28cccbd174138d0069745d0a7d44edb45a86fb6c",
+			"urls": [
+				"bzz-raw://ebc2853f5cf46f1a8793f4f658b6e54bb05b9e8839c89effabd122542b10ab6d",
+				"dweb:/ipfs/Qmd5VcJBvBGiuMrRUVc4GBHgVzMUzZWwg61nus9CMxdEnE"
+			]
+		},
+		"Based learn/AddressBookFactory.sol": {
+			"keccak256": "0x25c7b7707097c83fad618cfff206838bb7cd2355c2a4239e0995347295dab2e7",
+			"urls": [
+				"bzz-raw://5e09549d75f1efeb279b7d0f30edcef8242b3312bd8f8228651284ec8c1a43aa",
+				"dweb:/ipfs/QmewXCY92VDzwPhGfbF1GSzkD7SUZyhAi8m79hiNy37k36"
+			]
+		}
+	},
+	"version": 1
+}
