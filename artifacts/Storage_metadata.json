@@ -61,7 +61,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/1_Storage.sol": "Storage"
+			"contracts/Storage_v2.sol": "Storage"
 		},
 		"evmVersion": "osaka",
 		"libraries": {},
@@ -75,12 +75,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/1_Storage.sol": {
-			"keccak256": "0xa3de51030e5784d1fc25677298a0bd61bf7eac541ca2fc94232f1b7dc5a89e21",
+		"contracts/Storage_v2.sol": {
+			"keccak256": "0xd3fde2e172f718a981753788e335f5a4fb9843d596798f599e331f6b34cd3467",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://aac95d61b7ce356e2da8d93eb66abfabbeadebb4f44d3d78fd14414e7ac918ba",
-				"dweb:/ipfs/QmZ6otiNvDfrWzEiQJBAdWUurwEvsemrbBZgD9hj6qSki1"
+				"bzz-raw://394baacd7dbfc637d73d921e7c84ce2f94dca57443fc4adba3a4f62a3db7a6be",
+				"dweb:/ipfs/QmfZKrww1oBYeZ1FU9WieYsfiEE4cZLniysZchEgoLZpgy"
 			]
 		}
 	},
